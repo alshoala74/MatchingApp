@@ -4,12 +4,9 @@ This repository documents my journey of learning Flutter, a popular framework fo
 
 
 
-## Projects
 
-### Project 1: [MatchingApp]
 
-![Image 1](images/project1.png)
-
+## Project : [MatchingApp]
 
 ![Image 2](images/project1.png)
 ![Project 2.2](images/project2.png)
